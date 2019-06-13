@@ -1,0 +1,111 @@
+.app {
+  background: linear-gradient(-8deg, #431781 20%,  white 10% 80%, #431781 10% );
+   padding-top: 100px;
+  
+}
+
+.card{
+  border: 1px solid gray;
+  position: relative;
+  display: flex;
+  width: 350px;
+  height: 400px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(117,115,117,1);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(117,115,117,1);
+  box-shadow: 10px 10px 5px 0px rgba(117,115,117,1);
+  
+  background-color: white;
+}
+
+img.bigImg {
+    width: 230px;
+    height: 200px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+.title {
+  position: absolute;
+  margin-top: 250px;
+  padding-left: 10px;
+
+}
+.category {
+  position: absolute;
+  margin-top: 280px;
+  padding-left: 10px;
+}
+
+.blueCat {
+  font-weight: bold;
+  color:#33A7FF
+}
+
+.time {
+  position: absolute;
+  margin-top: 335px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+.timeFrame {
+  color: gray;
+  position: absolute;
+  padding-left: 10px;
+  margin-top: 355px;
+  padding-bottom: 50px;
+
+}
+
+.CardCont {
+  margin-left: 100px;
+  position: relative;
+  
+ 
+}
+
+
+.header {
+  background-color: #431781;   
+  text-align: center;
+  background-position: top;
+  color: white;
+  
+
+
+}
+
+.brain {
+  text-decoration: underline;
+  color: yellow;
+  font-weight: bold;
+}
+
+h1{
+  text-transform: uppercase;
+}
+
+.btn-yellow {
+  background-color: yellow;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  padding: 8px 15px;
+  border-radius: 8px;
+  margin: 30px;
+}
+
+.footer {
+    background-color: #431781;
+    text-align: center;
+    background-position: bottom;
+    color: white;
+  height: 400px;
+  padding-top: 50px;
+    
+   
+
+}
